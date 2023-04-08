@@ -6,7 +6,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biduelgi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktk3939&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktk3939)](https://solved.ac/ktk3939)
 <!--
